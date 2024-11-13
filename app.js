@@ -25,8 +25,8 @@ console.log(`El facotiral de `, `${numero}`, ` es: `, `${factorial(6)}`);
     1. Calcule el factorial de 5
     2. Calcule la combinatoria de 6C2
     3. Calcule la permutacion de 8P1
-    4. Calcule el factorial de 8P1
-    5. Calcule el factorial de -1
+    4. Calcule el factorial de -1
+    5. Calcule la resta del factorial de 5! - el factorial de 4!
 */
 
 /*
