@@ -4,10 +4,14 @@
   "main": "app.js",
   "scripts": {
     "start": "node app",
-    "mat": "node app"
+    "todo": "node app && node participantes",
+    "mjm": "node participantes"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
