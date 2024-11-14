@@ -5,7 +5,12 @@
   "scripts": {
     "start": "node app",
     "todo": "node app && node participantes",
-    "mjm": "node participantes"
+    "mjm": "node participantes",
+    "facs": "node factorial",
+    "combi" : "node combinatoria",
+    "permu": "node permutacion",
+    "divi": "node division"
+
   },
   "keywords": [],
   "author": "",
